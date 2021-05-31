@@ -1,0 +1,31 @@
+body{
+    color: white;
+    background: linear-gradient( #6446d1, rgb(146, 187, 241));
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+.name_of_objects{
+    color: white
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    border: 2px dashed black;
+}
+#result_object_name{
+    color: black
+}
+#result_object_accuracy{
+ color: black
+}
+#results{
+    width: 600px;
+    height: 80px;
+    border: solid 2px white;
+    background-color:white;
+    border-radius: 30px;
+}
